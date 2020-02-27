@@ -1,5 +1,7 @@
 # Watson Assistant for WeChat
 
+[![codecov](https://codecov.io/gh/IBM/watson-assistant-for-wechat/branch/master/graph/badge.svg)](https://codecov.io/gh/IBM/watson-assistant-for-wechat)
+
 Watson Assistant integration in WeChat for ExpressJS.
 
 ## Usage

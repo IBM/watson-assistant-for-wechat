@@ -68,6 +68,7 @@ app.post('/watson', async (req, res) => {
 			});
 		});
 
+	// eslint-disable-next-line no-unused-vars
 	const clearSessionId = () => {
 		storage.destroy(user);
 	};
