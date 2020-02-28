@@ -1,6 +1,6 @@
 {
   "name": "watson-assistant-for-wechat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helping developers building a chatbot for WeChat powered by Watson Assistant",
   "main": "./lib",
   "author": "Michael Lin",
