@@ -766,12 +766,12 @@ blueimp-md5@^2.10.0:
   resolved "https://registry.yarnpkg.com/blueimp-md5/-/blueimp-md5-2.12.0.tgz#be7367938a889dec3ffbb71138617c117e9c130a"
   integrity sha512-zo+HIdIhzojv6F1siQPqPFROyVy7C50KzHv/k/Iz+BtvtVzSHXiMXOpq2wCfNkeBqdCv+V8XOV96tsEt2W/3rQ==
 
-body-parser-xml@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/body-parser-xml/-/body-parser-xml-1.1.0.tgz#7b56bef1cd7d266c13602b4c1daf4f511d26447c"
-  integrity sha1-e1a+8c19JmwTYCtMHa9PUR0mRHw=
+body-parser-xml@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/body-parser-xml/-/body-parser-xml-2.0.3.tgz#dba4461c5a0a5289612ced2e70442db11c38a615"
+  integrity sha512-tWvcAbh8QPd/lj+yfGZBMY/roof/e2iSXrJbYXYjxVhHQ88D2CF3AxDTdwhb9wcNdHVNbCttaWipchJPEs5r0g==
   dependencies:
-    xml2js "^0.4.16"
+    xml2js "^0.4.23"
 
 body-parser@1.19.0, body-parser@^1.19.0:
   version "1.19.0"
@@ -5667,7 +5667,7 @@ xdg-basedir@^4.0.0:
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-4.0.0.tgz#4bc8d9984403696225ef83a1573cbbcb4e79db13"
   integrity sha512-PSNhEJDejZYV7h50BohL09Er9VaIefr2LMAf3OEmpCkjOi34eYyQYAXUTjEQtZJTKcF0E2UKTh+osDLsgNim9Q==
 
-xml2js@^0.4.16:
+xml2js@^0.4.16, xml2js@^0.4.23:
   version "0.4.23"
   resolved "https://registry.yarnpkg.com/xml2js/-/xml2js-0.4.23.tgz#a0c69516752421eb2ac758ee4d4ccf58843eac66"
   integrity sha512-ySPiMjM0+pLDftHgXY4By0uswI3SPKLDw/i3UXbnO8M/p28zqexCUoPmQFrYD+/1BzhGJSs2i1ERWKJAtiLrug==
